@@ -1,0 +1,32 @@
+*{
+    background-color: darkgrey;
+}
+
+#cntr{
+    text-align: center;
+}
+
+#right{
+    text-align: right;
+}
+
+#grn{
+    color: green;
+}
+
+#wht{
+    color: white;
+}
+
+#img{
+    height: 200px;
+    padding-left: 400px;
+}
+
+#btn{
+    background-color: blanchedalmond;
+    height: 50px;
+    width: 150px;
+    font-size: xx-large;
+    text-shadow: 1px 1px 1px black;
+}
